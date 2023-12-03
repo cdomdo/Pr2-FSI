@@ -37,13 +37,12 @@ Regarding the training process, we set 25 epochs due to the substantial size of 
 ## Conclusions
 The final version of the model delivers a level of efficiency that we find satisfactory. When examining the graphical representations of performance metrics, we observe a curve that reflects the model's performance. 
 
----
+![Output curves](output_curves.png)
 
 The graphs generated during the training and validation of the model provide a detailed view of its behavior across epochs. In this context, the consistency in efficiency as we progress through the training process is a key indicator of the model's ability to generalize and maintain optimal performance even on previously unseen data.
 
 Finally, tests are conducted, and their accuracy is verified:
 
-
----
+![Output tests](output_tests.png)
 
 If needed to train the neural network with the identical dataset used in the table with its corresponding data augmentation, it is available [here](https://alumnosulpgc-my.sharepoint.com/:u:/g/personal/juan_dominguez113_alu_ulpgc_es/EXnoJ80Be-9CoQKoFEwPYBwBV3GM1fqbAJAzmI2F25f6VA?e=DESfXl).
